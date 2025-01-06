@@ -2,4 +2,4 @@
 
 set -x
 
-docker exec -it --user linuxgsm sdtdserver ./sdtdserver $1
+docker exec -it --user linuxgsm pwserver ./pwserver $1
